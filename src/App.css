@@ -1,0 +1,10 @@
+.App{
+    display: grid;
+ margin: 50px;
+ border: solid 2px chocolate;
+    
+}
+.card{
+border: 5px solid cornsilk;
+
+}
